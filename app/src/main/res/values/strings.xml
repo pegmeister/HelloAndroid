@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">HelloAndroid</string>
+    <string name="keyboard">keyboard</string>
+    <string name="Android_Apps_Trainer">Android Apps Trainer</string>
+    <string name="loc">9779 Queens Blvd.</string>
+    <string name="city">Rego Park, NY 11374</string>
+    <string name="tel">800-997-8460</string>
+    <string name="web">www.HelloAndroid321.com</string>
+    <string name="office_hours">Office Hours 9am - 6pm (weekdays)</string>
+</resources>
